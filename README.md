@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @GabrielFermino
-- 👀 I’m interested in learn new things about programming
-- 🌱 I’m currently learning C, JS, Kotlin and how to program Android Apps
-- 📫 How to reach me: @Ferm1no on Twitter or my personal email gabriel.cf2009@hotmail.com
+## 👋 Hi, I’m Gabriel Fermino!!
 
-<!---
-GabrielFermino/GabrielFermino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/GabrielFermino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielfermino&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfermino&layout=compact&langs_count=7&theme=monokai"/>
+</div>
